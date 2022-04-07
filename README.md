@@ -9,6 +9,9 @@ Project uses Gmail host and credentials. Google securtiy setting in the account 
 
 ![image](https://user-images.githubusercontent.com/89990638/162103656-91c1a7af-e776-4b7d-ac98-d72c080222e1.png)
 
+![image](https://user-images.githubusercontent.com/89990638/162104049-0a063868-40a6-486e-9eff-569131cd6f0c.png)
+
+
 ![image](https://user-images.githubusercontent.com/89990638/162103848-f317ac87-3447-42c4-8df5-327e3f6952cc.png)
 
 
