@@ -1,4 +1,4 @@
-# email_messaging_project
+# Email Automation Project
 
 This project uses the STMPlib amd Email.Message module to connect to a server and send out a email. The outgoing email can be fcustomized using the Template class from the String module. This module takes an html file and substitutes set variables to create a dynamic email that can be scaled accordingly. 
 
